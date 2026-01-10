@@ -13,6 +13,7 @@
 //5.usar recursion para buscar coincidencias
 //el guesaso
 //hola emil prueba de ramas v:
+//klk
 typedef struct Info
 {
 	char nombre[30];
