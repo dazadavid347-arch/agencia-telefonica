@@ -12,7 +12,7 @@
 //4.guardar y cargar desde archivo
 //5.usar recursion para buscar coincidencias
 
-
+//hola emil prueba de ramas v:
 typedef struct Info
 {
 	char nombre[30];
