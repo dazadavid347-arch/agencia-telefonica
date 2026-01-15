@@ -1,0 +1,11 @@
+#modules
+node_modules/
+
+#package
+package-lock.json
+
+*.exe
+*.o
+*.out
+agencia.exe
+a.exe
