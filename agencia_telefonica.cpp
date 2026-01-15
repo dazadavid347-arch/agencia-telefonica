@@ -45,7 +45,7 @@ printf("Desea crear un contacto (s/n): ");
         printf("\nContacto guardado\n\n");
     }
 }
-// === FUNCIÓN DE BÚSQUEDA RECURSIVA  ===
+//  FUNCIÓN DE BÚSQUEDA RECURSIVA  
 void buscarRecursivo(int indice, char inicial) {
     if (indice >= total_contactos) return; // Caso base
 
